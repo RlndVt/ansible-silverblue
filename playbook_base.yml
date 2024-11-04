@@ -4,6 +4,6 @@
   roles:
     - { role: layered_packages }
     - { role: flatpaks }
-    - { role: fonts }
-    - { role: gnome_settings }
+    #- { role: fonts }
+    #- { role: gnome_settings }
     - { role: os_updates }
