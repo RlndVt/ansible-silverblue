@@ -8,8 +8,7 @@ layered_package_install:
 # - yamllint
 
 base_package_remove:
-  - firefox-langpacks
-  - firefox
+  - firefox-langpacks firefox
 
 # The 'flatpak' role #
 ######################
